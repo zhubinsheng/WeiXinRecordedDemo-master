@@ -1,0 +1,2 @@
+include ':app', ':weixinrecorded', ':weiXinRecorded2'
+project(':weiXinRecorded2').projectDir = new File('weiXinRecorded')
